@@ -1,7 +1,8 @@
 " =============================================================
 " Vim color file
 " Author: Denis Ciccale (@tdecs)
-" Note: Based on the monokai theme for vim by Tomas Restrepo
+" Description: Modified molokai theme for vim, requires vim 7.3+
+" Note: Based on the molokai theme for vim by Tomas Restrepo
 " =============================================================
 
 set background=dark
