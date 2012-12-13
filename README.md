@@ -1,4 +1,3 @@
-denkai.vim
-==========
+# denkai.vim
 
-Modified monokai Theme for vim
+Modified molokai theme for vim
